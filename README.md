@@ -17,11 +17,11 @@ Vaultek here does that exactly
 ---------------------
    **How to set it up :** 
 - in the config
-  > Username/Repo-name (change it to be your user and repo)
+  > ** Username/Repo-name (change it to be your user and repo) **
 
-   >PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content')
+   > ** PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content') **
 
-    >Finally package it using `Nuitka` (recommended)
+    > ** Finally package it using `Nuitka` (recommended) **
   
   
 that is mostly it 
