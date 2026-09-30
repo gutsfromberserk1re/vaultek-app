@@ -8,7 +8,7 @@ Vaultek here does that exactly
 
 # Features
 
--client-Side Encryption:** Uses `scrypt` for key derivation and `AES-256-GCM` to ensure your data is fully encrypted before it touches the cloud.
+- **client-Side Encryption:** Uses `scrypt` for key derivation and `AES-256-GCM` to ensure your data is fully encrypted before it touches the cloud.
 - **GitHub Sync:** Automatically syncs your encrypted vault data directly to a private GitHub repository and you can access it from any device the app in configured on. The data is scrambled so it is not readable from github moreover since the repo is private thats much more secure.
 - **Built to give windows 7 vibes:** I'm not sure why.
 - **Fuzzy Search:** Not too organized but easily search anything u saved 
