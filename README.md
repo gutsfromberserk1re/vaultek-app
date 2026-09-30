@@ -5,7 +5,16 @@ And with frequent data breaches nowadays I've been thinking of a way to save my 
 and a reliable way was to make an application of my own to do just that.
 Vaultek here does that exactly 
 
+-----------------------
 
+# visual
+<img width="685" height="522" alt="image" src="https://github.com/user-attachments/assets/4edea479-5993-4c95-8438-33a119fee089" />
+
+
+<img width="996" height="758" alt="image" src="https://github.com/user-attachments/assets/0f4a0acb-c86a-4b1e-99b9-9b1042323a86" />
+
+
+-----------------------
 # Features
 
 - **client-Side Encryption:** Uses `scrypt` for key derivation and `AES-256-GCM` to ensure your data is fully encrypted before it touches the cloud.
