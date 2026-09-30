@@ -8,7 +8,6 @@ Vaultek here does that exactly
 -----------------------
 
 # visual
-<img width="500" alt="Vaultek Login" src="https://github.com/user-attachments/assets/4edea479-5993-4c95-8438-33a119fee089" />
 
 <img width="650" alt="Vaultek Dashboard" src="https://github.com/user-attachments/assets/0f4a0acb-c86a-4b1e-99b9-9b1042323a86" />
 
