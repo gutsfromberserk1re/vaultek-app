@@ -21,7 +21,7 @@ Vaultek here does that exactly
 
    >PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content')
 
-    >Finally package it using nuitka (recommended)
+    >Finally package it using `Nuitka` (recommended)
   
   
 that is mostly it 
