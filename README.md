@@ -11,7 +11,9 @@ Vaultek here does that exactly
 -- How to set it up -- 
 - in the config
   > Username/Repo-name (change it to be your user and repo)
-  PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content')
+
+   PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content')
+
   Finally package it however you want but i recommend Nuitka so its extra secure (which i did so its not easily crackable)
   
 that is mostly it 
