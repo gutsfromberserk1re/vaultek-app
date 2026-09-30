@@ -1,4 +1,4 @@
-** vaultek-app **
+#  vaultek-app 
 A windows application that can be used as a password manager (main purpose) or secure notes.
 As i usually change browsers i find myself exporting my passwords every now and then.
 And with frequent data breaches nowadays I've been thinking of a way to save my passwords somehow 
