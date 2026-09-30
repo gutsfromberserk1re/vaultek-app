@@ -9,7 +9,7 @@ Vaultek here does that exactly
 # Features
 
 -client-Side Encryption:** Uses `scrypt` for key derivation and `AES-256-GCM` to ensure your data is fully encrypted before it touches the cloud.
-- **GitHub Sync:** Automatically syncs your encrypted vault data directly to a private GitHub repository and you can access it from any device the app in configured on.
+- **GitHub Sync:** Automatically syncs your encrypted vault data directly to a private GitHub repository and you can access it from any device the app in configured on. The data is scrambled so it is not readable from github moreover since the repo is private thats much more secure.
 - **Built to give windows 7 vibes:** I'm not sure why.
 - **Fuzzy Search:** Not too organized but easily search anything u saved 
 - **log-in pass:** it asks for a password when you first open it. Typing in the password twice confirms it and that is your password from then on (I believe on that device) *not tested in a second device*
@@ -19,7 +19,8 @@ Vaultek here does that exactly
 
    >PAT_PLAIN  (put your GITHUB repo api here with read and write permissions for 'content')
 
-    >Finally package it however you want but i recommend Nuitka so its extra secure (which i did so its not easily crackable)
+    >Finally package it using nuitka (recommended)
+  
   
 that is mostly it 
 
