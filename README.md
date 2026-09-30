@@ -6,9 +6,14 @@ and a reliable way was to make an application of my own to do just that.
 Vaultek here does that exactly 
 
 
+# Features
 
-
--- How to set it up -- 
+-client-Side Encryption:** Uses `scrypt` for key derivation and `AES-256-GCM` to ensure your data is fully encrypted before it touches the cloud.
+- **GitHub Sync:** Automatically syncs your encrypted vault data directly to a private GitHub repository and you can access it from any device the app in configured on.
+- **Built to give windows 7 vibes:** I'm not sure why.
+- **Fuzzy Search:** Not too organized but easily search anything u saved 
+- **log-in pass:** it asks for a password when you first open it. Typing in the password twice confirms it and that is your password from then on (I believe on that device) *not tested in a second device*
+-- **How to set it up** -- 
 - in the config
   > Username/Repo-name (change it to be your user and repo)
 
