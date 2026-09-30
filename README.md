@@ -13,7 +13,9 @@ Vaultek here does that exactly
 - **Built to give windows 7 vibes:** I'm not sure why.
 - **Fuzzy Search:** Not too organized but easily search anything u saved 
 - **log-in pass:** it asks for a password when you first open it. Typing in the password twice confirms it and that is your password from then on (I believe on that device) *not tested in a second device*
--- **How to set it up** -- 
+
+---------------------
+ -                                 **How to set it up**
 - in the config
   > Username/Repo-name (change it to be your user and repo)
 
